@@ -1,0 +1,13 @@
+{
+	"n_targets": 37184,
+	"n_bootstraps": 0,
+	"n_processed": 27549291,
+	"n_pseudoaligned": 17600239,
+	"n_unique": 16974501,
+	"p_pseudoaligned": 63.9,
+	"p_unique": 61.6,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Mon Nov 28 09:16:03 2022",
+	"call": "kallisto quant -t 4 -i anjou_transcripts.idx -o output_open_buds ./RNA_seq/JLHZ_RNAseq_0039_Open_Buds_TAAGTGGT_Pear_dAnjou_I1126_L1_R1.fastq.gz ./RNA_seq/JLHZ_RNAseq_0039_Open_Buds_TAAGTGGT_Pear_dAnjou_I1126_L1_R2.fastq.gz"
+}

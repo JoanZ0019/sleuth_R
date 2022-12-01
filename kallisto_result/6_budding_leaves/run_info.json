@@ -1,0 +1,13 @@
+{
+	"n_targets": 37184,
+	"n_bootstraps": 0,
+	"n_processed": 25713792,
+	"n_pseudoaligned": 16967769,
+	"n_unique": 16375912,
+	"p_pseudoaligned": 66.0,
+	"p_unique": 63.7,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Nov 26 11:36:51 2022",
+	"call": "kallisto quant -t 4 -i anjou_transcripts.idx -o output_budding_leaves ./RNA_seq/JLHU_RNAseq_0016_Budding_Leaves_AGCCTCAT_Pear_dAnjou_I1126_L1_R1.fastq.gz ./RNA_seq/JLHU_RNAseq_0016_Budding_Leaves_AGCCTCAT_Pear_dAnjou_I1126_L1_R2.fastq.gz"
+}

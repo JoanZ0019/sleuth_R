@@ -1,0 +1,13 @@
+{
+	"n_targets": 37184,
+	"n_bootstraps": 0,
+	"n_processed": 35281584,
+	"n_pseudoaligned": 22393709,
+	"n_unique": 21513481,
+	"p_pseudoaligned": 63.5,
+	"p_unique": 61.0,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Nov 26 12:55:49 2022",
+	"call": "kallisto quant -t 4 -i anjou_transcripts.idx -o output_quater_inch_buds ./RNA_seq/JLHX_RNAseq_0029_Quarter_inch_Buds_TCGTAGTG_Pear_dAnjou_I1126_L1_R1.fastq.gz ./RNA_seq/JLHX_RNAseq_0029_Quarter_inch_Buds_TCGTAGTG_Pear_dAnjou_I1126_L1_R2.fastq.gz"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 37184,
+	"n_bootstraps": 0,
+	"n_processed": 42098360,
+	"n_pseudoaligned": 28904277,
+	"n_unique": 28213674,
+	"p_pseudoaligned": 68.7,
+	"p_unique": 67.0,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Nov 26 11:27:22 2022",
+	"call": "kallisto quant -t 4 -i anjou_transcripts.idx -o output_fruitlet_2 ./RNA_seq/JLHT_RNAseq_0011B_Fruitlet_Stage_2_CGTTAGAA_Pear_dAnjou_I1126_L1_R1.fastq.gz RNA_seq/JLHT_RNAseq_0011B_Fruitlet_Stage_2_CGTTAGAA_Pear_dAnjou_I1126_L1_R2.fastq.gz"
+}
